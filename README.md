@@ -1,2 +1,1 @@
-faire un commit sur git c'est sauvegarder son travail a un moment precis. Quand tu fais un commit tu peux ecrire un jolie message pour informer de l'etat de ton projet 
-Ex: git commit -m "feat: leave me alone"
+faire un commit sur git c'est sauvegarder son travail a un moment precis. Quand tu fais un commit tu dis à Git "garde cette version de mon projet". d'abord, tu choisis les fichiers que tu veux enregistrer, puis tu écris un petit message qui eplique ce que tu as changé. Il doit etre clir pour ue toi ou quelqu'un d'autre comprenne ce que tu as fait.
